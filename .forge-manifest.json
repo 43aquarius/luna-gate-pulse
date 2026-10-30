@@ -1,0 +1,9 @@
+{
+  "name": "luna-gate-pulse",
+  "category": "skill",
+  "zhDesc": "高频筛选时自查阈值是否钝化",
+  "enDesc": "A micro check to spot filter numbness before tightening the gate out of habit.",
+  "motivation": "「高频筛选会造成阈值钝化，纯粹休整也是合理的节律」",
+  "skillName": "gate-pulse",
+  "builtAt": "2026-10-30T19:18:05.189Z"
+}
